@@ -1,7 +1,7 @@
 {
-  "name": "@azuro-org/sdk",
+  "name": "@gamblefukkers/azuro-org-sdk",
   "version": "1.0.5",
-  "author": "Azuro",
+  "author": "gamblefukkers",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,7 +35,7 @@
     "@graphql-codegen/client-preset": "^4.0.0",
     "@graphql-codegen/near-operation-file-preset": "^2.5.0",
     "@graphql-codegen/typescript-react-apollo": "^3.3.7",
-    "@rollup/plugin-typescript": "^11.1.2",
+    "@rollup/plugin-typescript": "^11.1.6",
     "@types/react": "^18.2.18",
     "rimraf": "^5.0.1",
     "rollup": "^3.25.3",
